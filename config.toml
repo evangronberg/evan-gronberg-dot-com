@@ -1,0 +1,39 @@
+baseURL = 'https://evangronberg.com/'
+languageCode = 'en-us'
+title = 'Evan Gronberg'
+theme = 'hermit'
+
+[params]
+
+themeColor = "#494f5c"
+homeSubtitle = "A Student of Life"
+
+    [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/evan-gronberg-b553b51b2/"
+
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/evangronberg"
+
+    [[params.social]]
+    name = "telegram"
+    url = "https://t.me/evangronberg"
+
+    [[params.social]]
+    name = "email"
+    url = "mailto:contact@evangronberg.com"
+
+[menu]
+
+    [[menu.main]]
+        name = "Computer Scientist"
+        url = "/computer-scientist"
+
+    [[menu.main]]
+        name = "YoYo Player"
+        url = "/yoyo-player"
+
+    [[menu.main]]
+        name = "Tutor"
+        url = "/tutor"
